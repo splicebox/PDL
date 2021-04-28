@@ -1,5 +1,5 @@
 # DL
-This is a probabilistic deep learning model for pridicting the splicing ratios with the inputs of sequence elements (optionally splicing factor in the form of position weight matrix) and training inputs of splice junction read counts
+This is a computational model aimed at revealing the splicing regulation. More specifically, we describe a probabilistic deep learning model to predict and quantify alternative splicing events from the information on cis-regulatory sequence elements and trans-splicing factors in different tissues.
 
 ```
 Copyright (C) 2021, and GNU GPL v3.0, by Guangyu Yang, Liliana Florea
