@@ -1,4 +1,4 @@
-# DL
+# PDL
 This is a computational model aimed at revealing the splicing regulation. More specifically, we describe a probabilistic deep learning model to predict and quantify alternative splicing events from the information on cis-regulatory sequence elements and trans-splicing factors in different tissues.
 
 ```
